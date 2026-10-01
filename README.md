@@ -1,18 +1,4 @@
-# 🌍 GoSarajevo
-<img width="150" height="200" alt="logooo" src="https://github.com/user-attachments/assets/6b64000f-238b-4632-830b-6d11b3391ce0" />
-
 **GoSarajevo** je pametna web aplikacija koja korisnicima pruža personalizovani vodič kroz Sarajevo. Cilj sistema je olakšati snalaženje u gradu i omogućiti brz pristup relevantnim informacijama — od atrakcija i događaja do praktičnih informacija i planiranja boravka.
-
----
-
-## 🚀 Osnovna ideja
-
-Aplikacija kombinuje:
-- turistički vodič  
-- informativni servis  
-- alat za planiranje boravka  
-
-Korisnicima omogućava da na osnovu svojih interesa i preferencija otkriju Sarajevo na efikasan i prilagođen način.
 
 ---
 
@@ -24,44 +10,44 @@ Korisnicima omogućava da na osnovu svojih interesa i preferencija otkriju Saraj
   
 ---
 
-## ✨ Glavne funkcionalnosti
+## Glavne funkcionalnosti
 
-### 📅 Pregled aktuelnih događaja
+### Pregled aktuelnih događaja
 - pregled sportskih, kulturnih i zabavnih događaja  
 - filtriranje po vremenu i popularnosti  
 
-### 📍 Atrakcije i lokacije
+### Atrakcije i lokacije
 - turističke atrakcije  
 - skrivene lokacije  
 - restorani, kafići i barovi  
 
-### ⭐ Recenzije
+### Recenzije
 - korisnici mogu:
   - ostavljati recenzije  
   - ocjenjivati mjesta  
   - pregledati iskustva drugih  
 
-### 🧭 Pametno planiranje boravka
+### Pametno planiranje boravka
 - unos datuma dolaska i odlaska  
 - unos preferencija  
 - generisanje personalizovanog plana  
 
-### 🚑 Praktične informacije
+### Praktične informacije
 - hitne službe  
 - apoteke i bolnice  
 - javni prevoz i taxi  
 
-### 🔐 Registracija i prijava
+### Registracija i prijava
 - kreiranje korisničkog naloga  
 - pristup personalizovanim funkcijama  
 
-### 📧 Newsletter
+### Newsletter
 - obavijesti o događajima i novostima  
 - personalizovani sadržaj  
 
 ---
 
-## 👥 Tipovi korisnika
+## Tipovi korisnika
 
 - **Gost (neregistrovani korisnik)**
   - pregled sadržaja  
@@ -78,4 +64,12 @@ Korisnicima omogućava da na osnovu svojih interesa i preferencija otkriju Saraj
 - **Operater**
   - kreiranje i slanje newslettera  
 
+---
 
+## Tehnologije
+* C# / ASP.NET Core MVC
+* Entity Framework Core
+* HTML, CSS, Bootstrap, JavaScript
+
+## Dokumentacija
+Arhitektonski dijagrami i dokumentacija nalaze se u `/docs` folderu.
